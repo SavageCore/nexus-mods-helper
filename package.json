@@ -7,7 +7,7 @@
 		"build": "vite build"
 	},
 	"devDependencies": {
-		"vite-userscript-plugin": "^1.10.0"
+		"vite-userscript-plugin": "^2.5.0"
 	},
 	"allowScripts": {
 		"bufferutil@4.0.7": true,
